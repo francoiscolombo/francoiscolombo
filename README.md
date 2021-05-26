@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @francoiscolombo
+- 👀 I’m interested in IT of course, but also in music 🎶, travel 🏖, videogames 🎮 and drinking beer 🍻 with my friends!
+- 🌱 I’m currently learning golang, C#, angular and perfectioning my python skills
+- 📫 How to reach me: go to http://www.francoiscolombo.net/
